@@ -1,0 +1,23 @@
+{
+"product":[
+{"id":1,"name":"Barbet, black-collared","category":"Turquoise"},
+{"id":2,"name":"Hornbill, southern ground","category":"Blue"},
+{"id":3,"name":"Long-billed cockatoo","category":"Khaki"},
+{"id":4,"name":"Southern hairy-nosed wombat","category":"Fuscia"},
+{"id":5,"name":"Dunnart, fat-tailed","category":"Indigo"},
+{"id":6,"name":"Magpie, australian","category":"Aquamarine"},
+{"id":7,"name":"Laughing dove","category":"Mauv"},
+{"id":8,"name":"Crab-eating raccoon","category":"Violet"},
+{"id":9,"name":"Crane, sarus","category":"Blue"},
+{"id":10,"name":"Possum, pygmy","category":"Blue"},
+{"id":11,"name":"Raccoon, crab-eating","category":"Mauv"},
+{"id":12,"name":"Striated heron","category":"Teal"},
+{"id":13,"name":"Python, carpet","category":"Indigo"},
+{"id":14,"name":"Long-crested hawk eagle","category":"Fuscia"},
+{"id":15,"name":"Jaguar","category":"Khaki"},
+{"id":16,"name":"Black-tailed tree creeper","category":"Mauv"},
+{"id":17,"name":"Cormorant, javanese","category":"Puce"},
+{"id":18,"name":"Grouse, sage","category":"Green"},
+{"id":19,"name":"Magellanic penguin","category":"Yellow"},
+{"id":20,"name":"Mongoose, javan gold-spotted","category":"Purple"}]
+}
